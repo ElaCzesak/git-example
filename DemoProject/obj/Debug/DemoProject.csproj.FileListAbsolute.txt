@@ -8,3 +8,14 @@ D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.csproj.CoreC
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.exe
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.pdb
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.MainForm.resources
+C:\Users\Mervenur.Cadirli\Source\Repos\git-example\DemoProject\bin\Debug\DemoProject.exe.config
+C:\Users\Mervenur.Cadirli\Source\Repos\git-example\DemoProject\bin\Debug\DemoProject.exe
+C:\Users\Mervenur.Cadirli\Source\Repos\git-example\DemoProject\bin\Debug\DemoProject.pdb
+C:\Users\Mervenur.Cadirli\Source\Repos\git-example\DemoProject\obj\Debug\DemoProject.csproj.AssemblyReference.cache
+C:\Users\Mervenur.Cadirli\Source\Repos\git-example\DemoProject\obj\Debug\DemoProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mervenur.Cadirli\Source\Repos\git-example\DemoProject\obj\Debug\DemoProject.MainForm.resources
+C:\Users\Mervenur.Cadirli\Source\Repos\git-example\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+C:\Users\Mervenur.Cadirli\Source\Repos\git-example\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.cache
+C:\Users\Mervenur.Cadirli\Source\Repos\git-example\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\Mervenur.Cadirli\Source\Repos\git-example\DemoProject\obj\Debug\DemoProject.exe
+C:\Users\Mervenur.Cadirli\Source\Repos\git-example\DemoProject\obj\Debug\DemoProject.pdb
