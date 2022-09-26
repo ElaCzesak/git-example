@@ -31,13 +31,16 @@ namespace DemoProject
         {
             this.btnClickThis = new System.Windows.Forms.Button();
             this.lblHelloWorld = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.colorBtn = new System.Windows.Forms.Button();
+            this.exitBtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnClickThis
             // 
             this.btnClickThis.BackColor = System.Drawing.Color.Chartreuse;
-            this.btnClickThis.Location = new System.Drawing.Point(16, 74);
-            this.btnClickThis.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnClickThis.Location = new System.Drawing.Point(13, 81);
+            this.btnClickThis.Margin = new System.Windows.Forms.Padding(4);
             this.btnClickThis.Name = "btnClickThis";
             this.btnClickThis.Size = new System.Drawing.Size(108, 31);
             this.btnClickThis.TabIndex = 0;
@@ -54,14 +57,47 @@ namespace DemoProject
             this.lblHelloWorld.Size = new System.Drawing.Size(0, 16);
             this.lblHelloWorld.TabIndex = 1;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(16, 29);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(100, 28);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "Clicks";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // colorBtn
+            // 
+            this.colorBtn.Location = new System.Drawing.Point(16, 132);
+            this.colorBtn.Name = "colorBtn";
+            this.colorBtn.Size = new System.Drawing.Size(100, 30);
+            this.colorBtn.TabIndex = 3;
+            this.colorBtn.Text = "Change Color";
+            this.colorBtn.UseVisualStyleBackColor = true;
+            this.colorBtn.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // exitBtn
+            // 
+            this.exitBtn.Location = new System.Drawing.Point(298, 132);
+            this.exitBtn.Name = "exitBtn";
+            this.exitBtn.Size = new System.Drawing.Size(94, 29);
+            this.exitBtn.TabIndex = 4;
+            this.exitBtn.Text = "Exit";
+            this.exitBtn.UseVisualStyleBackColor = true;
+            this.exitBtn.Click += new System.EventHandler(this.button3_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(433, 178);
+            this.ClientSize = new System.Drawing.Size(456, 197);
+            this.Controls.Add(this.exitBtn);
+            this.Controls.Add(this.colorBtn);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.lblHelloWorld);
             this.Controls.Add(this.btnClickThis);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "MainForm";
             this.Text = "Demo Project";
             this.ResumeLayout(false);
@@ -73,6 +109,9 @@ namespace DemoProject
 
         private System.Windows.Forms.Button btnClickThis;
         private System.Windows.Forms.Label lblHelloWorld;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button colorBtn;
+        private System.Windows.Forms.Button exitBtn;
     }
 }
 
