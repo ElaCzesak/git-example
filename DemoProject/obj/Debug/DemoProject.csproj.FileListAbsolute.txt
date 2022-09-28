@@ -8,3 +8,14 @@ D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.csproj.CoreC
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.exe
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.pdb
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.MainForm.resources
+C:\APEC\ITL_1\git-example\DemoProject\bin\Debug\DemoProject.exe.config
+C:\APEC\ITL_1\git-example\DemoProject\bin\Debug\DemoProject.exe
+C:\APEC\ITL_1\git-example\DemoProject\bin\Debug\DemoProject.pdb
+C:\APEC\ITL_1\git-example\DemoProject\obj\Debug\DemoProject.csproj.AssemblyReference.cache
+C:\APEC\ITL_1\git-example\DemoProject\obj\Debug\DemoProject.csproj.SuggestedBindingRedirects.cache
+C:\APEC\ITL_1\git-example\DemoProject\obj\Debug\DemoProject.MainForm.resources
+C:\APEC\ITL_1\git-example\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+C:\APEC\ITL_1\git-example\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.cache
+C:\APEC\ITL_1\git-example\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+C:\APEC\ITL_1\git-example\DemoProject\obj\Debug\DemoProject.exe
+C:\APEC\ITL_1\git-example\DemoProject\obj\Debug\DemoProject.pdb
